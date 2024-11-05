@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Kablammo&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+body{
+    font-family: "Josefin Sans", sans-serif;
+    line-height: 1.6;
+}
+
+
+.navbar-brand{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.hero{
+    height: 50vh;
+    width: 50vw;
+    background-image: url('./1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #000;
+}
+
+.card-body .fw-bold{
+    color: red;
+}
+
+.col .pht {
+    border-radius: 50%;
+}
+
+footer .icons{
+    /*display: flex;*/
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.fa-youtube {
+  color: red;
+  font-size: large;
+}
+.fa-facebook {
+  color: blue;
+  font-size: large;
+}
+.fa-instagram {
+  color: rgb(212, 23, 86);
+  font-size: large;
+}
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    color: #000;
+    padding: 25px;
+    justify-content: space-around;
+}
+

@@ -1,0 +1,42 @@
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">
+                <img
+                  src="./logo.PNG"
+                  alt="Logo"
+                  width="100"
+                  height="100"
+                  class="d-inline-block align-text-top"
+                />
+                <h1>Rais Travel</h1>
+              </a>
+            </div>
+
+/MMMMMMMMMMMMMMMMMMM///
+
+             <div class="container-fluid">
+              <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#home"
+                    >Home</a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a
+                    class="nav-link active"
+                    aria-current="page"
+                    href="#destinations"
+                    >Destinations</a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#tours"
+                    >Tours</a
+                  >
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#contact"
+                    >Contact</a
+                  >
+                </li>
+              </ul>
+            </div>
